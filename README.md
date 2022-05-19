@@ -1,4 +1,4 @@
-# react-tic-tac-toe-hooks
+# tic-tac-toe
 React Tic Tac Toe Game using Functional Components and Hooks
 
 
